@@ -8,10 +8,9 @@
     - apply: Executes a previously generated deployment plan to apply changes.
     - build: Triggers the build-and-push workflow in the nina-infra repository.
     - deploy: Deploys a specific GitHub Actions run to your infrastructure using its URL.
-    - release: Publishes release notes from your Obsidian vault to Azure for a given release number.
+    - release: Publishes release notes from local markdown files to Azure for a given release number.
     - start: Starts all applications that are configured with "run": true in config.json.
     - repo-structure: Verifies that your repositories adhere to the required file structure (e.g., biome.json, version.txt).
-    - documentation: Synchronizes markdown documentation files from your Obsidian vault to each application's DOCUMENTATION.md.
     
 # Nina.Home
 
