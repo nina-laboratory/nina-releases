@@ -25,6 +25,17 @@
 - Created base application
 - Created docker image
 - Initial Timeline Feature
+- Fixed lint formatting issues
+
+# Nina.Fit
+
+- Added support for weighted reps exercises (Leg Extension, Leg Curl)
+- Redesigned Session page with grid layout and compact cards
+- Added custom vector assets for Leg Extension and Leg Curl
+
+# Nina.Quick
+
+- Fixed lint formatting issues
 
 # Pedroaz.Home
 
