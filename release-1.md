@@ -19,6 +19,9 @@
 # Nina.Infra
 - Initial Azure infrastructure
 - Docker build pipeline on Github
+- Azure Key Vault integration for managing secrets
+- Managed Identity for Container Apps to access Key Vault
+- Stable Application URLs configuration
 
 # Nina.Journal
 
