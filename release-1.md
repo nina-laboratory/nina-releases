@@ -22,6 +22,8 @@
 - Azure Key Vault integration for managing secrets
 - Managed Identity for Container Apps to access Key Vault
 - Stable Application URLs configuration
+- Upgraded `azuread` Terraform provider to v3
+- Updated OIDC configuration for v3 compatibility
 
 # Nina.Journal
 
