@@ -50,4 +50,8 @@
 
 # Pedroaz.Home
 
-- Initial Page
+- Initial Page implementation with Hero, Work Experience, Projects, and Tech Stack
+- Added Social Links with Email copy-to-clipboard and Resume download
+- Implemented responsive design with Framer Motion animations
+- Added Vercel-like aesthetic with Geist font and clean UI
+- Integrated Lucide icons for visual enhancements
