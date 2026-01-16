@@ -1,0 +1,17 @@
+name: nina-releases
+id: ari:cloud:compass:ea6ad01b-2af2-4c30-823f-db7e7c43b840:component/a7ed47e6-8173-4a43-a41c-3e58a529f553/08456134-f3f3-4374-b5af-fc3516297775
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/nina-laboratory/nina-releases
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
